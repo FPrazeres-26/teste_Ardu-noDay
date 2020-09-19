@@ -6,10 +6,10 @@
 > "I don't think out of the box, I live out of the box !" by me
 
 
-'''Python
+```Python
 
 f = fprazeres;
 
 print(f);
 
-'''
+```
