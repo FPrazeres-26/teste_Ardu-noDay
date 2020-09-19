@@ -16,4 +16,6 @@ print(f);
 
 ```
 
-
+- Lista de afazeres
+- lol
+- tbd
