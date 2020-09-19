@@ -9,6 +9,7 @@
 '''Python
 
 f = fprazeres;
-print();
+
+print(f);
 
 '''
