@@ -4,3 +4,11 @@
 
 
 > "I don't think out of the box, I live out of the box !" by me
+
+
+'''Python
+
+f = fprazeres;
+print();
+
+'''
