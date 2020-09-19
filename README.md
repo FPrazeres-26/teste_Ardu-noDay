@@ -12,7 +12,7 @@
 
 [1. dhsjdkd](https://github.com/FPrazeres-26/teste_Ardu-noDay/blob/master/README.md#sum%C3%A1rio)
 
-[2. kskks](Link)
+[2. kskks](https://github.com/FPrazeres-26/teste_Ardu-noDay/blob/master/README.md#teste_arduinoday)
 
 ```Python
 
